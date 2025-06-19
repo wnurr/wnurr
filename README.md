@@ -1,12 +1,40 @@
-- 👋 Hi, I’m @wnurr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi there, I'm Wannur 👋</h1>
 
-<!---
-wnurr/wnurr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  💻 Aspiring Web Developer | 🎨 UI/UX Enthusiast | ☁️ Tech Explorer  
+</p>
+
+---
+
+### 👀 Interests
+- Web Development (HTML, CSS, JS)
+- UI/UX Design with Figma
+- Accessibility & Usability
+- Open Source Projects
+
+### 🌱 Currently Learning
+- JavaScript & React
+- REST APIs
+- Git/GitHub Best Practices
+- Figma
+
+### 💞️ Open to Collaborate On
+- Student tech initiatives
+- Beginner-friendly open source
+- Mini frontend projects
+
+### 📫 Reach Me
+[![Email](https://img.shields.io/badge/email-wannnnnur26@gmail.com-pink)](mailto:wannnnnur26@gmail.com)
+
+### 😄 Pronouns
+She / Her
+
+---
+
+### 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,github,vscode,tailwind,kotlin" />
+</p>
+
+---
+
